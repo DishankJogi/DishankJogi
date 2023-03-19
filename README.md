@@ -1,3 +1,4 @@
+![logo](https://github.com/DishankJogi/DishankJogi/blob/main/Dishank%20Jogi.jpg)
 <h1 align="center">Hi 👋, I'm Dishank Jogi</h1>
 <h3 align="center">A passionate about an Embedded System</h3>
 
