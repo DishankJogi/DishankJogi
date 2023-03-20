@@ -1,11 +1,9 @@
 ![logo](https://github.com/DishankJogi/DishankJogi/blob/main/Dishank%20Jogi.jpg)
-<h1 align="center">Hi 👋, I'm Dishank Jogi</h1>
+<h1 align="center">Hello 👋, I'm Dishank Jogi</h1>
 <h3 align="center">A passionate about an Embedded System</h3>
 
 
 <img align="right" alt="coding" width= "400" src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-
 
 
 - 🌱 I’m currently learning C Programming , Embedded System , Python Programming.
