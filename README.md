@@ -22,3 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishankjogi&show_icons=true&locale=en&layout=compact" alt="dishankjogi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishankjogi&show_icons=true&locale=en" alt="dishankjogi" /></p>
+
+
+![Dishank Jogi](./bottom_header.svg)
+
