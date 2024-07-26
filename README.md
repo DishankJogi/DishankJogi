@@ -1,10 +1,11 @@
 ![logo](https://github.com/DishankJogi/DishankJogi/blob/main/Dishank%20Jogi.jpg)
 <h1 align="center">Hello 👋, I'm Dishank Jogi</h1>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.*
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. 
+Aim to become a Software and Hardware Full Stack Engineer.**
 <img align="right" alt="coding" width= "400" src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 📫 How to reach me jogidishank503@gmail.com
+- 📫 **How to reach me** jogidishank503@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
