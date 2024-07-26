@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,</h1>
+<h1 align="center"> About me</h1>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. 
 Aim to become a Software and Hardware Full Stack Engineer.**
