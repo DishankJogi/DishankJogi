@@ -1,8 +1,7 @@
 ![logo](https://github.com/DishankJogi/DishankJogi/blob/main/Dishank%20Jogi.jpg)
 <h1 align="center">Hello 👋, I'm Dishank Jogi</h1>
 
-- I am a passionate technologist 👨‍💻 who enjoys learning new things 💡,<br>
- especially in electronics 🤖 and programming 💻
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. Aim to become a Software and Hardware Full Stack Engineer.*
 <img align="right" alt="coding" width= "400" src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 📫 How to reach me jogidishank503@gmail.com
