@@ -1,5 +1,4 @@
-![logo](https://github.com/DishankJogi/DishankJogi/blob/main/Dishank%20Jogi.jpg)
-<h1 align="center">Hello 👋, I'm Dishank Jogi</h1>
+<h1 align="center">Hello 👋,</h1>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **An Embedded Software Engineer. 
 Aim to become a Software and Hardware Full Stack Engineer.**
